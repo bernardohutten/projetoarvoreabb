@@ -1,5 +1,0 @@
-10, João
-5, Ana
-15, Pedro
-3, Bruno
-7, Carla
