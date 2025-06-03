@@ -10,7 +10,7 @@ public class Main {
 
         // Ler dados do arquivo
         try {
-            BufferedReader br = new BufferedReader(new FileReader("projetoarvoreabb-main/untitled/src/projetoarvoreabb/dados.txt"));
+            BufferedReader br = new BufferedReader(new FileReader("projetoarvoreabb-main/projetoarvoreabb-main/projetoarvoreabb-main/untitled/src/projetoarvoreabb/dados.txt"));
             String linha;
             while ((linha = br.readLine()) != null) {
                 String[] partes = linha.split(",");
