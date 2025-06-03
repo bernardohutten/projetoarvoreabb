@@ -1,0 +1,7 @@
+40,Bernardo
+20,Marcelo
+60,Vitoria
+10,Roberto
+30,Davi
+50,Vitor Hugo
+70,Bianca
